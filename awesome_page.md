@@ -2,7 +2,7 @@
 
 **This is bold... I think**
 
-*I am awesome too*
+*I am awesome too!!*
 
     Code block
     Still awesome
